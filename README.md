@@ -7,7 +7,7 @@
 We will release the paper and code soon!
 
 ## Overview
-<img src="https://github.com/user-attachments/assets/bfe64052-142f-4b45-bf65-08012eab0485" width="90%" />
+<img src="https://github.com/user-attachments/assets/bfe64052-142f-4b45-bf65-08012eab0485" width="100%" />
 
 
 
