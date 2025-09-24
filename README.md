@@ -1,4 +1,4 @@
-# DefMamba3D: Deformable Scan Mamba with Differentiable Sequence Reordering for 3D Point Clouds
+# DefMamba3D: Deformable Scan Mamba with Differentiable Sequence Reordering for Point Clouds
 
 ## Will do
 - ⏳ The paper will be released soon
